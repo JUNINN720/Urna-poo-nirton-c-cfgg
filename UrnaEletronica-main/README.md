@@ -45,7 +45,7 @@ Para executar o projeto Puzzle-15 em sua máquina local, siga as etapas abaixo:
 
 - Uma vez que o projeto esteja aberto, navegue até a pasta "Source Packages", abra o arquivo "UrnaDesign.java".
 
-- Execute a classe principal: "Run project" no menu superior ou use o atalho F6. Isso irá iniciar o Simulador de Urna Eletrônica.
+- Execute a classe principal: "Run project" no menu superior ou use o atalho F6. Isso irá iniciar o Simulador de Urna Eletrônicaa.
 
 Agora você está pronto para explorar o Simulador de Urna Eletrônica! Experimente o processo de votação e compreenda como os votos são contabilizados, incluindo votos brancos e nulos.🗳️🔌
 
